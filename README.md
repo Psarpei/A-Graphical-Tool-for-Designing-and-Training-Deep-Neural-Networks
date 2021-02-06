@@ -1,4 +1,4 @@
-# Networkx - a Graphical Tool for Designing and Training Deep Neural Networks
+# NetworkX - a Graphical Tool for Designing and Training Deep Neural Networks
 This work is the result of my bachelor thesis. The idea was to build a graphical tool for design, create, and test neural networks. Further the tool should be able to export the neural network to integrate it into other applications. On top of that it should be able to load and preprocessing the data.
 
 
@@ -27,7 +27,7 @@ This work is the result of my bachelor thesis. The idea was to build a graphical
 * typing-extensions-3.7.4.3
 
 
-## Networkx
+## NetworkX
 The software currently offers the following building blocks and functions to create artificial neural networks:
 
 * Convolutional, dropout layers as well as fully connected layers.
