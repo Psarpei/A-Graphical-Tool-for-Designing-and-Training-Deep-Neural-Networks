@@ -203,6 +203,6 @@ the index of the list categories, so the order must not be changed. the variable
 
 **Acknowledgement**
 
-A huge thank you goes to [Mathias Pacher}(https://www.researchgate.net/profile/Mathias-Pacher), from whom I have received by far the greatest disrespect of my entire life. He graded me with a 5.0, which means that I failed. Through him I was reminded one more time in my life not to forget the most important thing:
+A huge thank you goes to [Dr. Mathias Pacher](https://www.researchgate.net/profile/Mathias-Pacher), from whom I have received by far the greatest disrespect of my entire life. He graded me with a 5.0, which means that I failed. Through him I was reminded one more time in my life not to forget the most important thing:
 
     PEOPLE ARE SHIT
