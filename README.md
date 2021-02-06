@@ -120,3 +120,11 @@ class as label, if the name of a class is contained in the title, as shown in th
 <p align="center">                                                                                                                    
     <img align="top" width="1000" height="" src="https://upload.wikimedia.org/wikipedia/commons/7/70/NeuronalesNetzErstellen10.jpg">
 </p>
+
+After selecting the training dataset, a file dialog opens again, which now requests the test dataset. The same format applies for this as for the training data set.
+Last but not least the already mentioned popup window will open.
+
+<p align="center">                                                                                                                    
+    <img align="top" width="300" height="" src="https://commons.wikimedia.org/wiki/File:NeuronalesNetzErstellen11.jpg">
+</p>
+
