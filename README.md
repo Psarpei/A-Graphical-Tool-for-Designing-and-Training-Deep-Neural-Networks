@@ -179,3 +179,5 @@ During training, the artificial neural network and its weights are stored after 
 <p align="center">                                                                                                                    
     <img align="top" width="600" height="" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/NeuronalesNetzErstellen17.jpg">
 </p>
+
+The weights are saved in a .pt file and the graphical mesh in a .nx file. When loading later on, make sure that both files are inside the same folder and that the names have not been changed. To load the neural network with its weights, only the .nx file must be loaded. To open a neural network in the software in the File submenu, the function Load Network must be used.
