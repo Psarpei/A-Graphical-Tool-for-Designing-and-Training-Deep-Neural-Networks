@@ -82,7 +82,7 @@ In order to add a Max-Pooling block the entry Max-Pool, as shown in Fig.4.8. The
 The final convolutional neural network used here is shown below. 
 
 <p align="center">                                                                                                                    
-    <img align="top" width="1200" height="" src="https://upload.wikimedia.org/wikipedia/commons/2/29/NeuronalesNetzErstellen5.jpg">
+    <img align="top" width="1200" height="" src="https://upload.wikimedia.org/wikipedia/commons/2/29/NeuronalesNetzErstellen6.jpg">
 </p>
 
 The network can be created exactly as described before.
