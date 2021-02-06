@@ -125,6 +125,6 @@ After selecting the training dataset, a file dialog opens again, which now reque
 Last but not least the already mentioned popup window will open.
 
 <p align="center">                                                                                                                    
-    <img align="top" width="300" height="" src="https://commons.wikimedia.org/wiki/File:NeuronalesNetzErstellen11.jpg">
+    <img align="top" width="300" height="" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/NeuronalesNetzErstellen11.jpg">
 </p>
 
