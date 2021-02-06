@@ -76,9 +76,10 @@ The building block can be moved like any other by holding down the mouse button 
 </p>
 
 To change the values, a popup window opens where the values can be selected. With the Ok button the values are taken over in the module, with the Cancel button the change is discarded. the change is discarded. In this case, the parameter in is set to 1, because the MNIST data are gray scale images, which have only one channel.
-In order to add a Max-Pooling block the entry Max-Pool, as shown in Fig.4.8. The parameter kernel is changed in the same way as for the Convolution Layer. In this case a 2x2 kernel is needed for the desired architecture. kernel is needed for the desired architecture. Afterwards the Convolutional Layer and the Max-Pooling have to be connection from the output of the convolutional layer to the input. to the input. This is done as described before and should be done after moving the max-pooling block under the convolutional layer block. Now it should look like in the figure above.
+In order to add a Max-Pooling block the entry Max-Pool, as shown in Fig.4.8. The parameter kernel is changed in the same way as for the Convolution Layer. In this case a 2x2 kernel is needed for the desired architecture. Afterwards the Convolutional Layer and the Max-Pooling have to be connection from the output of the convolutional layer to the input. This is done as described before and should be done after moving the max-pooling block under the convolutional layer block. Now it should look like in the figure above.
 
 **The neural Network**
+
 The final convolutional neural network used here is shown below. 
 
 <p align="center">                                                                                                                    
@@ -87,3 +88,10 @@ The final convolutional neural network used here is shown below.
 
 The network can be created exactly as described before.
 
+**Read in Data**
+
+In order to supply the network with data for training, the data must be read in and preprocessed.  In the current state, the Data submenu contains 2 different types for processing image data. 
+
+<p align="center">                                                                                                                    
+    <img align="top" width="1200" height="" src="https://upload.wikimedia.org/wikipedia/commons/2/29/NeuronalesNetzErstellen7.jpg">
+</p>
