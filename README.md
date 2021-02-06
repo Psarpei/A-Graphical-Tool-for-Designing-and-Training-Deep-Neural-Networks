@@ -45,6 +45,11 @@ In addition to the building blocks and functions for creating artificial neural 
 * Output of instructions on how to operate the software, the current training status, test results etc. in the console.
 
 **GUI**
+
+<p align="center">                                                                                                                    
+    <img align="top" width="400" height="" src="https://commons.wikimedia.org/wiki/File:Networkx1.jpg">
+</p>
+
 The basic part of the user interface consists of the so-called world widget, which represents the white horizontally and vertically scrollable area, and the console, which represents the white area directly below it. In addition, there is a toolbar directly at the top of the software, which provides functions for using the software in certain categories. The Worldwidget, through the submenus Layer and Functions, building blocks for the generation of artificial neural networks can be added. In the Worldwidget the
 blocks can be linked to a graph and modified by their possible settings. settings. The input layer is marked in green and can be changed at any time. During the training or testing process, the software automatically creates an artificial neural network from the graph and processes the weights invisibly for the user. The console has the task of providing the user information about incorrect operation, training status, test results, etc. If the console size is not capable of displaying all previous outputs, it becomes scrollable, just like the Worldwidget. With the clear button on the left below the console can be used to clear the contents of the console. Besides the submenus
 Layer and Functions, the software contains 4 more submenus. The File submenu, which provides functions for importing and exporting neural networks. The data submenu, which allows loading and processing of training data. The submenu Train which provides functions for training (currently only one type of training with different
