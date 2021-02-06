@@ -108,8 +108,15 @@ Im Fall von Picture1 müssen die Bilder für das Training wie folgt gespeichert 
     <img align="top" width="1000" height="" src="https://upload.wikimedia.org/wikipedia/commons/4/48/NeuronalesNetzErstellen9.jpg">
 </p>
 
-Here the images are sorted into their own subfolders based on their labels. In this case, all zeros in the Zero folder, all ones in the One folder, and so on. Later, the neural network uses exactly the names of the individual folders as labels for the prediction. With Picture2 the whole thing looks a bit different.
+Here the images are sorted into their own subfolders based on their labels. In this case, all zeros in the Zero folder, all ones in the One folder, and so on. Later, the neural network uses exactly the names of the individual folders as labels for the prediction. With Picture2 the whole thing looks a bit different. Here are all training data strored in one folder.
 
 <p align="center">                                                                                                                    
     <img align="top" width="1000" height="" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/NeuronalesNetzErstellen8.jpg">
+</p>
+
+The labels of the individual images are contained in the name of the image, which is irrelevant for Picture1. After selecting the training and test data, another popup window opens in which the individual categories for the labels can be entered. The software then automatically assigns the appropriate class to each
+class as label, if the name of a class is contained in the title, as shown in the following on the basis of the Cats and Dog dataset.
+
+<p align="center">                                                                                                                    
+    <img align="top" width="1000" height="" src="https://upload.wikimedia.org/wikipedia/commons/7/70/NeuronalesNetzErstellen10.jpg">
 </p>
