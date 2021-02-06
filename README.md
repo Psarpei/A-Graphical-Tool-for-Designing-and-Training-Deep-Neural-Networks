@@ -83,7 +83,7 @@ In order to add a Max-Pooling block the entry Max-Pool, as shown in Fig.4.8. The
 The final convolutional neural network used here is shown below. 
 
 <p align="center">                                                                                                                    
-    <img align="top" width="1200" height="" src="https://upload.wikimedia.org/wikipedia/commons/2/29/NeuronalesNetzErstellen6.jpg">
+    <img align="top" width="1200" height="" src="https://upload.wikimedia.org/wikipedia/commons/3/34/NeuronalesNetzErstellen6.jpg">
 </p>
 
 The network can be created exactly as described before.
@@ -93,5 +93,5 @@ The network can be created exactly as described before.
 In order to supply the network with data for training, the data must be read in and preprocessed.  In the current state, the Data submenu contains 2 different types for processing image data. 
 
 <p align="center">                                                                                                                    
-    <img align="top" width="1200" height="" src="https://upload.wikimedia.org/wikipedia/commons/2/29/NeuronalesNetzErstellen7.jpg">
+    <img align="top" width="300" height="" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/NeuronalesNetzErstellen7.jpg">
 </p>
