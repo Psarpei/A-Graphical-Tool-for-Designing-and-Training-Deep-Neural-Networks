@@ -177,5 +177,5 @@ Obviously, an image representing a handwritten 6 was chosen and displayed in the
 During training, the artificial neural network and its weights are stored after each epoch, as mentioned earlier.
 
 <p align="center">                                                                                                                    
-    <img align="top" width="300" height="" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/NeuronalesNetzErstellen17.jpg">
+    <img align="top" width="600" height="" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/NeuronalesNetzErstellen17.jpg">
 </p>
