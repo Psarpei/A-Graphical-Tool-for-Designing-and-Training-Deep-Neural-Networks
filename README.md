@@ -194,7 +194,7 @@ In principle, the Python script can be easily integrated and used in other sourc
 In line 8 the file path of the .pt file with the weights of the neural network is specified and stored in the variable path_weights as a string. If the file should be moved, of course also the file path must be changed at this point. To read in an image from the harddisk the string Your Path here must be replaced in line 9 by the file path of the image. In line 12 in the variable categories the single labels are stored in a list. The names of the labels can be changed, but the order must remain the same. The remaining lines are rather insignificant for the use and refer only to the data processing. 
 
 <p align="center">                                                                                                                    
-    <img align="top" width="600" height="" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/NeuronalesNetzErstellen21.jpg">
+    <img align="top" width="500" height="" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/NeuronalesNetzErstellen21.jpg">
 </p>
 
 The prediction of the neural network is made in line
