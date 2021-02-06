@@ -75,4 +75,5 @@ The building block can be moved like any other by holding down the mouse button 
     <img align="top" width="400" height="" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/NeuronalesNetzErstellen2.jpg">
 </p>
 
-
+To change the values, a popup window opens where the values can be selected. With the Ok button the values are taken over in the module, with the Cancel button the change is discarded. the change is discarded. In this case, the parameter in is set to 1, because the MNIST data are gray scale images, which have only one channel.
+In order to add a Max-Pooling block the entry Max-Pool, as shown in Fig.4.8. The parameter kernel is changed in the same way as for the Convolution Layer. In this case a 2x2 kernel is needed for the desired architecture. kernel is needed for the desired architecture. Afterwards the Convolutional Layer and the Max-Pooling have to be connection from the output of the convolutional layer to the input. to the input. This is done as described before and should be done after moving the max-pooling block under the convolutional layer block. Now it should look like in the figure above.
