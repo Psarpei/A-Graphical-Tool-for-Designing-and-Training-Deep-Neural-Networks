@@ -154,3 +154,12 @@ The first parameter optimizer defines which training method should be used. Curr
 
 It should be noted that the training is started at epoch 0.
 is started. The current error is output for each training step. At the end of each epoch to be epoch to be trained, the training stops briefly to evaluate the test data set. If GPU is selected, this is also loaded to the graphics card first. The accuracy of the prediction of the neural network on the test data set is then, besides the average error, also displayed in the console. The neural network for the recognition of handwritten digits, as shown in Fig. 4.18, achieves an accuracy of 95.44% after the training is an accuracy of 95.44%, which is a really good result without optimization.
+
+**Test and Validation**
+
+In order to test the trained net again with other data, there is a submenu Test in the toolbar, which so far has the functions Testset and Picture available.
+
+<p align="center">                                                                                                                    
+    <img align="top" width="300" height="" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/NeuronalesNetzErstellen15.jpg">
+</p>
+
