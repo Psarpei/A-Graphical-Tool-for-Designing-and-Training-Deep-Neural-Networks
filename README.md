@@ -189,19 +189,19 @@ The weights are saved in a .pt file and the graphical mesh in a .nx file. When l
 A file dialog opens in which the .nx file must be selected. Afterwards the net is visible in the worldwidget and can be used as described before. To save a network without its weights, the function Save Network is available. Here a file dialog opens again, in which the storage location, as well as the name of the .nx file can be selected. The network can be saved without weights, just as the network with weights by Load Network. With Export.py an already trained network can be exported as a Python script. However, in addition to the net and its weights, because the script converts received data directly to the data to send them through the neural network. Network is available. Here a file dialog opens again, in which the storage location, as well as the name of the .nx file can be selected. The network can be saved without weights, just as the network with weights by Load Network. With Export.py an already trained network can be exported as a Python script.However, in addition to the network and its weights, data must also be loaded for this, since the script directly converts received data to then send it through the neural network. After pressing Export.py, a file dialog opens again in which the name of the .py file and its location must be selected. The python script as well as a .pt file, which contains the weights of the neural net are saved in the selected folder.
 
 <p align="center">                                                                                                                    
-    <img align="top" width="1000" height="" src="https://upload.wikimedia.org/wikipedia/commons/8/81/NeuronalesNetzErstellen19.jpg">
+    <img align="top" width="800" height="" src="https://upload.wikimedia.org/wikipedia/commons/8/81/NeuronalesNetzErstellen19.jpg">
 </p>
 
 In principle, the Python script can be easily integrated and used in other source code, since it is not necessary to understand the entire code. Lines 8-15 of the source code can be seen below.
 
 <p align="center">                                                                                                                    
-    <img align="top" width="1000" height="" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/NeuronalesNetzErstellen20.jpg">
+    <img align="top" width="800" height="" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/NeuronalesNetzErstellen20.jpg">
 </p>
 
 In line 8 the file path of the .pt file with the weights of the neural network is specified and stored in the variable path_weights as a string. If the file should be moved, of course also the file path must be changed at this point. To read in an image from the harddisk the string Your Path here must be replaced in line 9 by the file path of the image. In line 12 in the variable categories the single labels are stored in a list. The names of the labels can be changed, but the order must remain the same. The remaining lines are rather insignificant for the use and refer only to the data processing. 
 
 <p align="center">                                                                                                                    
-    <img align="top" width="1000" height="" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/NeuronalesNetzErstellen21.jpg">
+    <img align="top" width="800" height="" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/NeuronalesNetzErstellen21.jpg">
 </p>
 
 The prediction of the neural network is made in line
