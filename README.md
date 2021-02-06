@@ -102,3 +102,14 @@ The basic difference between Picture1 and Picture2 is the way the data is stored
     <img align="top" width="1000" height="" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/NeuronalesNetzErstellen8.jpg">
 </p>
 
+Im Fall von Picture1 müssen die Bilder für das Training wie folgt gespeichert sein.
+
+<p align="center">                                                                                                                    
+    <img align="top" width="1000" height="" src="https://upload.wikimedia.org/wikipedia/commons/4/48/NeuronalesNetzErstellen9.jpg">
+</p>
+
+Here the images are sorted into their own subfolders based on their labels. In this case, all zeros in the Zero folder, all ones in the One folder, and so on. Later, the neural network uses exactly the names of the individual folders as labels for the prediction. With Picture2 the whole thing looks a bit different.
+
+<p align="center">                                                                                                                    
+    <img align="top" width="1000" height="" src="https://commons.wikimedia.org/wiki/File:NeuronalesNetzErstellen8.jpg">
+</p>
