@@ -56,3 +56,19 @@ Layer and Functions, the software contains 4 more submenus. The File submenu, wh
 training with different settings) and the submenu Test, which provides functions to provides functions for evaluation and testing. The size of the Worldwidgets and the
 console can be resized by using the mouse on the gray border between them.
 
+## Tutorial
+
+In the following the use of Networkx will be explained by creating a convolutional neural network for recognizing digits with the [MNIST-Dataset](http://yann.lecun.com/exdb/mnist/).
+
+**Creating a neural network**
+
+<p align="center">                                                                                                                    
+    <img align="top" width="1300" height="" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/NeuronalesNetzErstellen1.jpg">
+</p>
+
+The first step is to create a convolution layer. To add a convolution layer to the worldwidget, select the Layer submenu and click on the Convolution Layer tab. Now the convolution layer should appear in the upper left corner of the worldwidget. 
+
+The building block can be moved like any other by holding down the mouse button and dragging it to the area of the building block. To change the parameters, the mouse must also be placed on the area of the building block and the right mouse button must be pressed.  A drop-down menu appears, which allows to execute the functions Edit, Draw, Delete, Delete links and First Layer. When Draw is pressed, the mouse can be used,
+left-click on another block to create a connection with it.
+
+
