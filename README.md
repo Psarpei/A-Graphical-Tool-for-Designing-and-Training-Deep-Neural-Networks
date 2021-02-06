@@ -47,7 +47,7 @@ In addition to the building blocks and functions for creating artificial neural 
 **GUI**
 
 <p align="center">                                                                                                                    
-    <img align="top" width="400" height="" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Networkx1.jpg">
+    <img align="top" width="800" height="" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Networkx1.jpg">
 </p>
 
 The basic part of the user interface consists of the so-called world widget, which represents the white horizontally and vertically scrollable area, and the console, which represents the white area directly below it. In addition, there is a toolbar directly at the top of the software, which provides functions for using the software in certain categories. The Worldwidget, through the submenus Layer and Functions, building blocks for the generation of artificial neural networks can be added. In the Worldwidget the
