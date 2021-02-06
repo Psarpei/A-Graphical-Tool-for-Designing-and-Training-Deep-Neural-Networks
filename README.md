@@ -30,3 +30,17 @@ create artificial neural networks:
 * The activation functions rectified linear unit (ReLu) and logistic function (sigmoid function)
 * A function to transfer the neurons from several feature maps into a feature map for further processing
 * Creation of connections between the layers with automatic creation of the connections of the correct neurons between the layers, depending on the selected type of layer
+* Automatic application of any number of successively executed activation functions to the output eurons of a layer, depending on the selection of the activation functions and the type of layer.
+* Unlimited area for adding neural network building blocks in the worldwidget.
+* Automatic creation of an artificial neural network from the connected layers within the worldwidget
+
+In addition to the building blocks and functions for creating artificial neural networks, the software contains the functions:
+
+* Loading and saving artificial neural networks and their current weights.
+* Training of artificial neural networks
+* 2 different types for reading and automatic preprocessing of image data and their labels for training a neural network for object recognition in images.
+* Training artificial neural networks for classification of images.
+* Test and evaluation of artificial neural networks for the classification of images with single images.
+* Test and evaluation of datasets during training as well as outside of training.
+* Exporting trained artificial neural networks to an executable Python script.
+* Output of instructions on how to operate the software, the current training status, test results etc. in the console.
