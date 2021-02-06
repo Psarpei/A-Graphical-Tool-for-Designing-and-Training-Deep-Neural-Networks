@@ -135,3 +135,14 @@ as follows.
     <img align="top" width="300" height="" src="https://upload.wikimedia.org/wikipedia/commons/5/55/NeuronalesNetzErstellen12.jpg">
 </p>
 
+The output in the console takes place for each batch loaded where the batch number of the currently processed batch, as well as the percentage of the
+loaded data set is specified.
+
+**Training**
+
+As soon as the data is loaded and processed, the training can be started by pressing the Train button in the toolbar. A popup window opens again, in which the properties of the training process can be defined.
+
+<p align="center">                                                                                                                    
+    <img align="top" width="300" height="" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/NeuronalesNetzErstellen13.jpg">
+</p>
+
