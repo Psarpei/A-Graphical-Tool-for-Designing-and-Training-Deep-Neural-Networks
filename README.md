@@ -102,7 +102,7 @@ The basic difference between Picture1 and Picture2 is the way the data is stored
     <img align="top" width="1000" height="" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/NeuronalesNetzErstellen8.jpg">
 </p>
 
-Im Fall von Picture1 müssen die Bilder für das Training wie folgt gespeichert sein.
+In the case of Picture1, the images for training must be saved as follows.
 
 <p align="center">                                                                                                                    
     <img align="top" width="1000" height="" src="https://upload.wikimedia.org/wikipedia/commons/4/48/NeuronalesNetzErstellen9.jpg">
