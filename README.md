@@ -172,3 +172,10 @@ can be preprocessed. In addition, a file dialog opens again which can open the i
 
 Obviously, an image representing a handwritten 6 was chosen and displayed in the popup window along with the prediction Six of the trained network.
 
+**Save, Load, Export**
+
+During training, the artificial neural network and its weights are stored after each epoch, as mentioned earlier.
+
+<p align="center">                                                                                                                    
+    <img align="top" width="300" height="" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/NeuronalesNetzErstellen17.jpg">
+</p>
