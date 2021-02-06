@@ -163,3 +163,12 @@ In order to test the trained net again with other data, there is a submenu Test 
     <img align="top" width="300" height="" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/NeuronalesNetzErstellen15.jpg">
 </p>
 
+By pressing Testset, a loaded test set is sent through the network and evaluated. The result is then displayed in the console. To make the prediction for a single image, Picture must be selected. A popup window similar to the one used for reading and preprocessing the training and test data set will open, in which the image can be preprocessed.
+can be preprocessed. In addition, a file dialog opens again which can open the image. Here no label is needed, because the net simply makes a prediction here. The image and the subsequent prediction is then displayed in a new popup window.
+
+<p align="center">                                                                                                                    
+    <img align="top" width="300" height="" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/NeuronalesNetzErstellen16.jpg">
+</p>
+
+Obviously, an image representing a handwritten 6 was chosen and displayed in the popup window along with the prediction Six of the trained network.
+
