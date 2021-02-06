@@ -207,4 +207,4 @@ A huge thank you goes to [Dr. Mathias Pacher](https://www.researchgate.net/profi
 
     PEOPLE ARE SHIT
     
-PS: He said I stole the software, $1million to whoever finds it first ;)
+PS: He said I stole the software, 1million $ to whoever finds it first ;)
