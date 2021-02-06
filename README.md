@@ -69,7 +69,10 @@ The first step is to create a convolution layer. To add a convolution layer to t
     <img align="top" width="400" height="" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/NeuronalesNetzErstellen1.jpg">
 </p>
 
-The building block can be moved like any other by holding down the mouse button and dragging it to the area of the building block. To change the parameters, the mouse must also be placed on the area of the building block and the right mouse button must be pressed.  A drop-down menu appears, which allows to execute the functions Edit, Draw, Delete, Delete links and First Layer. When Draw is pressed, the mouse can be used,
-left-click on another block to create a connection with it.
+The building block can be moved like any other by holding down the mouse button and dragging it to the area of the building block. To change the parameters, the mouse must also be placed on the area of the building block and the right mouse button must be pressed.  A drop-down menu appears, which allows to execute the functions Edit, Draw, Delete, Delete links and First Layer. When Draw is pressed, the mouse can be used, left-click on another block to create a connection with it. By double-clicking with the left mouse button on a block, a connection can also be made from this block. The connection is made from the output of the block from which a connection is made to the input of the block to which the connection is to which the connection is subsequently closed with a left click. By pressing the left mouse button on the same block the creation of a connection can be canceled. Each block can have only one connection at the output and one at the input. An exception is the First Layer, which cannot have a connection at the input. The Delete function is used to delete the block. Delete Links deletes the connections of the block both at the input and at the output. By selecting First Layer, the current POU becomes the First Layer, turns green and is interpreted by the software as the input layer of the network when generating the artificial neural network. To edit the parameters of a modifiable block, press Edit.
+
+<p align="center">                                                                                                                    
+    <img align="top" width="400" height="" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/NeuronalesNetzErstellen2.jpg">
+</p>
 
 
