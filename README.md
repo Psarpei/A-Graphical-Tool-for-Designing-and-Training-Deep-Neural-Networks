@@ -5,7 +5,7 @@ This work is the result of my bachelor thesis. The idea was to build a graphical
 ## General information
 <img align="right" width="300" height="" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logo-Goethe-University-Frankfurt-am-Main.svg">
 
-**Instructors**
+**Supervisor**
 * [Prof. Dr. Detlef Kroemker](https://www.studiumdigitale.uni-frankfurt.de/75926978/Prof__Dr__Detlef_Kr%C3%B6mker__Pensioniert_seit_01_04_2020)
 
 **Institutions**
@@ -15,11 +15,17 @@ This work is the result of my bachelor thesis. The idea was to build a graphical
 **Project team**
 * [Pascal Fischer](https://github.com/Psarpei/)
 
-**Tools**
-* Python 3
-* PyQT5
-* PyTorch
-* Pillow
+**Configuration**
+* Python3.6.4
+* pyqt5-5.15.2
+* pillow-8.1.0 
+* six-1.15.0 
+* torchvision-0.4.1
+* dataclasses-0.8 
+* numpy-1.19.5 
+* torch-1.7.1 
+* typing-extensions-3.7.4.3
+
 
 ## Networkx
 The software currently offers the following building blocks and functions to create artificial neural networks:
