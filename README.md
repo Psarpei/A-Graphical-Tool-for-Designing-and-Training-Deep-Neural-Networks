@@ -99,6 +99,6 @@ In order to supply the network with data for training, the data must be read in 
 The basic difference between Picture1 and Picture2 is the way the data is stored. When one of the two is selected, a file dialog opens, which prompts to select the folder with the training data
 
 <p align="center">                                                                                                                    
-    <img align="top" width="300" height="" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/NeuronalesNetzErstellen8.jpg">
+    <img align="top" width="1000" height="" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/NeuronalesNetzErstellen8.jpg">
 </p>
 
