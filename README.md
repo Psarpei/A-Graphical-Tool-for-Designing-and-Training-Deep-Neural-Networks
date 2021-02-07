@@ -206,11 +206,3 @@ In line 8 the file path of the .pt file with the weights of the neural network i
 The prediction of the neural network is made in line
 60, where the predicted category is output via the
 the index of the list categories, so the order must not be changed. the variable prediction, stores and generates the index of the category the net predicted.
-
-**Acknowledgement**
-
-A huge thank you goes to [Dr. Mathias Pacher](https://www.researchgate.net/profile/Mathias-Pacher), from whom I have received by far the greatest disrespect of my entire life. He graded me with a 5.0, which means that I failed. Through him I was reminded one more time in my life not to forget the most important thing:
-
-    PEOPLE ARE SHIT
-    
-PS: He said I stole the software, 1million $ to whoever finds it first ;)
